@@ -15,6 +15,7 @@
 		4D8CF4AE24772FDF0030AC7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D8CF4AC24772FDF0030AC7B /* LaunchScreen.storyboard */; };
 		4D8CF4B924772FDF0030AC7B /* MagicPaperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8CF4B824772FDF0030AC7B /* MagicPaperTests.swift */; };
 		4D8CF4C424772FDF0030AC7B /* MagicPaperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8CF4C324772FDF0030AC7B /* MagicPaperUITests.swift */; };
+		4D8CF4D52478045A0030AC7B /* Newspaper.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4D8CF4D42478045A0030AC7B /* Newspaper.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4D8CF4BF24772FDF0030AC7B /* MagicPaperUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MagicPaperUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D8CF4C324772FDF0030AC7B /* MagicPaperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagicPaperUITests.swift; sourceTree = "<group>"; };
 		4D8CF4C524772FDF0030AC7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D8CF4D42478045A0030AC7B /* Newspaper.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Newspaper.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		4D8CF4A024772FDC0030AC7B /* MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				4D8CF4D42478045A0030AC7B /* Newspaper.mp4 */,
 				4D8CF4A124772FDC0030AC7B /* AppDelegate.swift */,
 				4D8CF4A324772FDC0030AC7B /* art.scnassets */,
 				4D8CF4A524772FDC0030AC7B /* ViewController.swift */,
@@ -234,6 +237,7 @@
 			files = (
 				4D8CF4A424772FDC0030AC7B /* art.scnassets in Resources */,
 				4D8CF4AE24772FDF0030AC7B /* LaunchScreen.storyboard in Resources */,
+				4D8CF4D52478045A0030AC7B /* Newspaper.mp4 in Resources */,
 				4D8CF4AB24772FDF0030AC7B /* Assets.xcassets in Resources */,
 				4D8CF4A924772FDC0030AC7B /* Main.storyboard in Resources */,
 			);
@@ -435,6 +439,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = B36288KQ3P;
 				INFOPLIST_FILE = MagicPaper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -452,6 +457,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = B36288KQ3P;
 				INFOPLIST_FILE = MagicPaper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
