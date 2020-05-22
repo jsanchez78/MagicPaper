@@ -36,7 +36,6 @@ class ViewController: UIViewController, ARSCNViewDelegate {
             configuration.trackingImages = trackedImages
             
             configuration.maximumNumberOfTrackedImages = 1
-            
         }
 
         // Run the view's session
