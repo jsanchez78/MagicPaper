@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D5DD38B24783EB600F057B9 /* Newspaper.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4D5DD38A24783EB600F057B9 /* Newspaper.gif */; };
 		4D8CF4A224772FDC0030AC7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8CF4A124772FDC0030AC7B /* AppDelegate.swift */; };
 		4D8CF4A424772FDC0030AC7B /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D8CF4A324772FDC0030AC7B /* art.scnassets */; };
 		4D8CF4A624772FDC0030AC7B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8CF4A524772FDC0030AC7B /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4D5DD38A24783EB600F057B9 /* Newspaper.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Newspaper.gif; sourceTree = "<group>"; };
 		4D8CF49E24772FDC0030AC7B /* MagicPaper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MagicPaper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D8CF4A124772FDC0030AC7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D8CF4A324772FDC0030AC7B /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 		4D8CF4A024772FDC0030AC7B /* MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				4D5DD38A24783EB600F057B9 /* Newspaper.gif */,
 				4D8CF4D42478045A0030AC7B /* Newspaper.mp4 */,
 				4D8CF4A124772FDC0030AC7B /* AppDelegate.swift */,
 				4D8CF4A324772FDC0030AC7B /* art.scnassets */,
@@ -237,6 +240,7 @@
 			files = (
 				4D8CF4A424772FDC0030AC7B /* art.scnassets in Resources */,
 				4D8CF4AE24772FDF0030AC7B /* LaunchScreen.storyboard in Resources */,
+				4D5DD38B24783EB600F057B9 /* Newspaper.gif in Resources */,
 				4D8CF4D52478045A0030AC7B /* Newspaper.mp4 in Resources */,
 				4D8CF4AB24772FDF0030AC7B /* Assets.xcassets in Resources */,
 				4D8CF4A924772FDC0030AC7B /* Main.storyboard in Resources */,
