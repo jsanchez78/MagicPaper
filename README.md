@@ -16,9 +16,6 @@ ARKit is used to track the 3D object while SpriteKit is used to display the 2D v
 
 <ul>
 
-## Demo
-
-![](./MagicPaper/Newspaper.gif)
 
 ## Building The Code
 
@@ -31,6 +28,12 @@ ARKit is used to track the 3D object while SpriteKit is used to display the 2D v
 3. Open MagicPaper.xcodeproj in Xcode.
 
 4. Build MagicPaper in Xcode.
+
+
+## Demo
+
+![](./MagicPaper/Newspaper.gif)
+
 
 ## Supports
 
