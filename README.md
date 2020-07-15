@@ -19,7 +19,7 @@ ARKit is used to track the 3D object while SpriteKit is used to display the 2D v
 
 ## Building The Code
 
-1.Install the latest [Xcode developer tools](https://developer.apple.com/) from Apple.
+1.  Install the latest [Xcode developer tools](https://developer.apple.com/) from Apple.
 
 1. Clone the repository:
 
