@@ -20,9 +20,17 @@ ARKit is used to track the 3D object while SpriteKit is used to display the 2D v
 
 ![](./MagicPaper/Newspaper.gif)
 
-## Image Tracking 
+## Building The Code
 
-![](./MagicPaper/PlaneDetection.png)
+1. Install the latest [Xcode developer tools](https://developer.apple.com/) from Apple.
+
+2. Clone the repository:
+
+    git clone https://github.com/mozilla-mobile/firefox-ios
+    
+3. Open MagicPaper.xcodeproj in Xcode.
+
+4. Build MagicPaper in Xcode.
 
 ## Supports
 
